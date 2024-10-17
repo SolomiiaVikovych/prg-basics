@@ -1,0 +1,5 @@
+amount_string = input('amount=')
+amount=float(amount_string)
+vat = amount*0.23
+print(f'amount = {round(amount,2) } and VAT = {round(vat,2)}')
+
