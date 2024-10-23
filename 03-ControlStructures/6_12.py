@@ -1,0 +1,5 @@
+product_price = float(input('Enter price of a product: '))
+prodoct_number = int(input('Enter number of product purchased: '))
+print(f' product price {product_price}')
+print(f' emount of product purchased {prodoct_number}')
+print(f' total emout: {product_price*(prodoct_number-1)*0.75}')
