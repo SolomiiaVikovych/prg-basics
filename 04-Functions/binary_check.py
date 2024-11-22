@@ -1,5 +1,5 @@
-def binary(number):
-    user_n = input('enter number in binary ')
+def binary(user_n):
+    
     for i in user_n:
         if i == '1' or i == '0':
          is_binary = True
