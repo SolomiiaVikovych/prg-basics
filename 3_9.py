@@ -2,7 +2,7 @@ def comparison (arr1, arr2):
     if arr1 == arr2:
         return True
     else:
-        return False
+        return False 
             
 arr_1 = [True,False]
 arr_2 = [True,False,True]
