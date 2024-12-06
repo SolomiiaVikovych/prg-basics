@@ -1,0 +1,17 @@
+bread
+cola
+cheese
+RedBull
+chicken
+bread
+cheese
+cola
+butter
+0
+& C:/Users/user/AppData/Local/Programs/Python/Python313/python.exe c:/Users/user/Desktop/prg-basics/08-FileHandling/2_5.py
+bread
+cheese
+cola
+chicken
+0
+bread

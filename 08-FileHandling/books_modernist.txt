@@ -1,0 +1,3 @@
+Ulysses,James Joyce,1922,Modernist
+The Metamorphosis,Franz Kafka,1915,Modernist
+The Trial,Franz Kafka,1925,Modernist

@@ -1,0 +1,4 @@
+The Brothers Karamazov,Fyodor Dostoevsky,1880,Philosophical
+The Picture of Dorian Gray,Oscar Wilde,1890,Philosophical
+The Stranger,Albert Camus,1942,Philosophical
+The Alchemist,Paulo Coelho,1988,Philosophical

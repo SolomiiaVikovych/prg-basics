@@ -1,0 +1,4 @@
+ Lolita,Vladimir Nabokov,1955,Literary
+Madame Bovary,Gustave Flaubert,1857,Literary
+The Sun Also Rises,Ernest Hemingway,1926,Literary
+The Old Man and the Sea,Ernest Hemingway,1952,Literary
